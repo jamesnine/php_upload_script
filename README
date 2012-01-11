@@ -1,0 +1,5 @@
+A very simple PHP based file uploading script, utilizing the jQuery Form Plugin.
+
+I just wanted a way for a user to upload a file to the server automatically, then be able to get the filename, etc.
+
+See the comment header in php_upload.php for more details.
